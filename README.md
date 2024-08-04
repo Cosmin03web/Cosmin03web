@@ -2,7 +2,7 @@
 #### Junior Frontend Web Developer
 ![Junior Frontend Web Developer](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
 
-I'm from Romania, and I like creating and designing websites. I enjoy learning new languages and test different frameworks like Bootstrap, Axios, Sass, Bulma and much more
+I'm from Romania, and I like creating and designing websites. I enjoy learning new languages and test different libraries and frameworks like Bootstrap, Axios, Sass, Bulma and much more.
 
 Skills: JS / HTML / CSS
 
