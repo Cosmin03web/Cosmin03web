@@ -6,7 +6,7 @@ I'm from Romania, and I like creating and designing websites. I enjoy learning n
 
 Skills: JS / HTML / CSS
 
-- 🔭 I’m currently working on a Movie App
+- 🔭 I’m currently working on a Logistc App
 - 🌱 I’m currently learning Backend 
 
 
